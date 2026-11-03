@@ -82,23 +82,23 @@ My interests include designing scalable LLM applications, developing multi-agent
 
 ## 🚀 Featured Projects
 
-### 🤖 [Multi-Agent Orchestrator](https://github.com/lathadevi158/Multi-Agent-Orchestrator-using-LangGraph)
-Multi-agent orchestration using LangGraph, with specialized agents and workflow coordination.
+### 🤖 [Multi-Agent Orchestration System using LangGraph](https://github.com/lathadevi158/Multi-Agent-Orchestrator-using-LangGraph)
+A multi-agent application built using LangGraph, featuring specialized agents that collaborate to accomplish complex tasks. Demonstrates agent orchestration, workflow coordination, task delegation and tool integration.
 
-### 🧠 [GraphRAG](https://github.com/lathadevi158/GraphRAG)
-Exploring knowledge graph-based retrieval and GraphRAG architectures.
+### 🧠 [Advanced Retrieval-Augmented Generation (RAG) Evaluation System](https://github.com/lathadevi158/advanced-rag-evaluation-system)
+An advanced Retrieval-Augmented Generation system designed to improve retrieval relevance and response accuracy. Explores hybrid search, query rewriting, reranking, contextual retrieval and RAG evaluation techniques.
 
-### ✈️ [Travel Planner Crew](https://github.com/lathadevi158/Travel_Planner_Crew)
-AI-powered travel planning using CrewAI and collaborative agents.
+### ✈️ [Multi-Agent Travel Planning System using CrewAI](https://github.com/lathadevi158/Travel_Planner_Crew)
+An AI-powered travel planning application built using CrewAI and collaborative agents. Uses specialized agents to coordinate travel research, destination recommendations and itinerary planning.
 
-### 📄 [PDF Q&A](https://github.com/lathadevi158/PDF_QnA)
-Document question-answering application using Retrieval-Augmented Generation.
+### 🔗 [Knowledge Graph-based Retrieval-Augmented Generation](https://github.com/lathadevi158/GraphRAG)
+A graph-based retrieval system that combines knowledge graphs with LLMs to retrieve contextually relevant information. Focuses on entity relationships, connected information retrieval and context-aware response generation.
 
-### 🌐 [Web Scrape Q&A](https://github.com/lathadevi158/Web_scrape_QnA)
-Question answering over information extracted from web pages.
+### 📄 [Document Intelligence and Question Answering using RAG](https://github.com/lathadevi158/PDF_QnA)
+A document question-answering application that enables users to interact with PDF content using natural language queries. Uses Retrieval-Augmented Generation to retrieve relevant document context and generate grounded responses.
 
-### 📧 [Email Assistant](https://github.com/lathadevi158/Email_Assistant)
-An AI-powered assistant for email-related tasks.
+### 🌐 [Web-based Knowledge System](https://github.com/lathadevi158/Web_scrape_QnA)
+A question-answering application that extracts information from web pages and makes it accessible through natural language queries. Combines web scraping and retrieval-based techniques to generate context-aware answers from extracted content.
 
 ---
 
